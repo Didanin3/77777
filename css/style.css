@@ -1,0 +1,106 @@
+#pricipal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid blue;
+    width: 100%;
+
+
+
+}
+
+
+#cabeçalho {
+    border: 0px solid red;
+    width: 100%;
+    background-color: #0f0b06;
+    color: #FFD700;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 100pt;
+
+
+
+
+
+}
+
+.branco {
+    color: white;
+    font-size: 0.5em;
+}
+
+a {
+    color:	#6495ED ;
+    text-decoration: none;
+}
+
+a:link {
+    color: 	#6495ED;
+
+}
+
+a:visited {
+    color: 	#6495ED;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+li {
+    display: inline;
+    list-style: none;
+}
+
+.menu {
+    text-align: center;
+
+
+}
+
+.conteudopricipal {
+    border: 0px solid red;
+    width: 40%;
+    margin-left: 20px;
+    margin: 10px;
+    float: left;
+    clear: both;
+    padding: 10px;
+    background-color:white ;
+
+}
+
+.conteudodireito {
+    border: 0px solid red;
+    width: 30%;
+    margin-left: 20px;
+    margin: 10px;
+    background-color: white;
+
+    clear: both;
+    display: inline-block;
+    padding: 10px;
+
+}
+
+
+
+
+.rodape {
+    border: 0px solid red;
+    clear: both;
+    width: 100%;
+    margin-left: 10px;
+    text-align: center;
+    color: #FFD700;
+    background-color: black;
+}
+.html{
+
+    width: 180px;
+    
+}
+h4{
+    
+}
